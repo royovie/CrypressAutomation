@@ -1,0 +1,6 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=1246
+END=9791
+title=Instagram Regression Test suite Validate that user with invalid details cannot login to the Instagram successfully
