@@ -23,4 +23,5 @@ describe("Instagram Regression Test suite",  () => {
       .should('be.visible')
     });// it block terminates here 
   
+    
    } );
